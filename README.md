@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Fahim Shariar
 #### I am Front-End Developer
-![I am Front-End Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/273253447_3144414772509125_7454379300901818456_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFYXggEKjtJBn5qoczf-TEKDohZdIKQBi0OiFl0gpAGLZt79YKOGA3p4fGQoYOQxBiX9erBbHRPv_e7mvs97yq0&_nc_ohc=aBfB_l8QBBwAX8ZPQlh&_nc_ht=scontent.fjsr6-1.fna&oh=00_AfAdrjd9Zz4E8V8gwNjiKKbfvYUOcHOOGjTPzxLjgLqDqA&oe=642C854F)
+![I am Front-End Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/184888986_2951084441842160_4701735793041925229_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHzVbX-Jc7fQpjeUKPR8Ccd_fCEFroVLKz98IQWuhUsrHgyS5XC40g8mYxpo08IEGV2BlTaxVpehR2QaKe476OQ&_nc_ohc=H1XTqaK1HxMAX_i8uAV&_nc_ht=scontent.fjsr6-1.fna&oh=00_AfDb0qN0IYgYckL3ueh-MasmejlxNgXCpEX0ZiY9fj6Uvw&oe=6470BDCB)
 
 As a front-end developer, I am proficient in using HTML, CSS, and JavaScript to build responsive and interactive websites. I also have experience working with popular front-end frameworks such as React, as well as CSS frameworks like Bootstrap and Tailwind. In addition, 
 I have knowledge of full-stack web development, specifically using MongoDB, Express, and Node.js. I am familiar with Git and GitHub, which I use for version control and collaboration on code projects. With my expertise in both front-end and back-end development, 
 I can create dynamic, user-friendly web applications that deliver a seamless user experience.
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / Express / HTML / CSS
 
 - 🔭 I’m currently working on Front-End Development 
 - 🌱 I’m currently learning React 
