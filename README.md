@@ -25,8 +25,6 @@ Skills:  REACT / JS / Express / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimshariar28&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/fahimshariar28)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimshariar28)  
 
 ![Profile views](https://gpvc.arturio.dev/fahimshariar28)  
