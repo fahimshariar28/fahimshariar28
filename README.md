@@ -7,7 +7,7 @@ applications using React.js, Node.js, and MongoDB. Passionate about clean code, 
 experiences, and staying updated with the latest technologies. Committed to contributing to
 collaborative teams and delivering high-quality solutions.
 
-Skills:  REACT / JavaScript / Express / HTML / CSS/ Bootstrap/ Tailwind/ React Router/ MongoDB/ NodeJs/ Figma/ Firebase/ Netlify
+Skills:  React / JavaScript / Express / HTML / CSS/ Bootstrap/ Tailwind/ React Router/ MongoDB/ NodeJs/ Figma/ Firebase/ Netlify
 
 - 🔭 I’m currently working on Front-End Development 
 - 🌱 I’m currently learning React 
