@@ -1,16 +1,15 @@
 ### Hi there 👋, I'm Fahim Shariar
 #### I am Full Stack Developer
-![I am Full Stack Developer]
 
 As a Full stack developer, I'm seeking challenging opportunities to build impactful web
 applications using React.js, Node.js, and MongoDB. Passionate about clean code, seamless user
 experiences, and staying updated with the latest technologies. Committed to contributing to
 collaborative teams and delivering high-quality solutions.
 
-Skills:  React / JavaScript / Express / HTML / CSS/ Bootstrap/ Tailwind/ React Router/ MongoDB/ NodeJs/ Figma/ Firebase/ Netlify
+Skills:  React / JavaScript / Next.Js / Express / HTML / CSS / Bootstrap/ Tailwind/ React Router / Redux / MongoDB/ NodeJs/ Figma/ Firebase/ Netlify
 
 - 🔭 I’m currently working on Front-End Development 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Next.Js 
 - 💬 Ask me about Front-End Development 
 - 📫 How to reach me: E-mail: fahimshariar28@gmail.com 
 - ⚡ Fun fact: I love travelling 
