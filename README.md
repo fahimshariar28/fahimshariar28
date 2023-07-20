@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fahim Shariar
 #### I am Full Stack Developer
-![I am Full Stack Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/184888986_2951084441842160_4701735793041925229_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHzVbX-Jc7fQpjeUKPR8Ccd_fCEFroVLKz98IQWuhUsrHgyS5XC40g8mYxpo08IEGV2BlTaxVpehR2QaKe476OQ&_nc_ohc=H1XTqaK1HxMAX_i8uAV&_nc_ht=scontent.fjsr6-1.fna&oh=00_AfDb0qN0IYgYckL3ueh-MasmejlxNgXCpEX0ZiY9fj6Uvw&oe=6470BDCB)
+![I am Full Stack Developer]
 
 As a Full stack developer, I'm seeking challenging opportunities to build impactful web
 applications using React.js, Node.js, and MongoDB. Passionate about clean code, seamless user
