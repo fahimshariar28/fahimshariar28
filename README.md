@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Fahim Shariar
-#### I am Full-Stack Developer
+#### I am Front-End Developer
 
-As a Full-Stack developer, I seek challenging opportunities to build impactful web
+As a Front-End developer, I seek challenging opportunities to build impactful web
 applications using React.js, Node.js, and MongoDB. Passionate about clean code, seamless user
 experiences, and staying updated with the latest technologies. Committed to contributing to
 collaborative teams and delivering high-quality solutions.
