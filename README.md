@@ -36,11 +36,3 @@ Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to 
 📈 **GitHub Stats**:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimshariar28&show_icons=true&count_private=true)
-
-🔥 **GitHub Streak**:
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=fahimshariar28)
-
-👁️ **Profile Views**: 
-
-![Profile Views](https://gpvc.arturio.dev/fahimshariar28)  
