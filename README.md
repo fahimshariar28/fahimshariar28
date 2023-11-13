@@ -8,7 +8,7 @@ Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to 
 
 🛠️ **Currently Crafting**: Full-Stack Wonders ✨
 
-📚 **Currently Learning**: Next.js Adventures 🚀
+📚 **Currently Learning**: TypeScript 🚀
 
 🔧 **Ask Me About**: Full-Stack Sorcery 🪄
 
