@@ -39,12 +39,15 @@ Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to 
 
 🏆 **Trophies**: 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=fahimshariar28&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-📊 **Top Languages**:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimshariar28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-trophy.vercel.app/?username=fahimshariar28&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 📈 **GitHub Stats**:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimshariar28&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=fahimshariar28&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=fahimshariar28&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimshariar28&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+💰 **You can help me by Donating**
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fahimshariar) 
+
