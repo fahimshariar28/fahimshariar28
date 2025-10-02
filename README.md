@@ -25,7 +25,7 @@ Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to 
 
 📧 **Reach Me**: Let's Connect! E-mail: fahimshariar28@gmail.com
 
-🌟 **Portfolio**: [fahimshariar.netlify.app](https://fahimshariar.netlify.app/)
+🌟 **Portfolio**: [fahimshariar.vercel.app](https://fahimshariar.vercel.app/)
 
 🌟 **Fun Fact**: I'm an avid explorer, always up for a new adventure! 🌍
 
