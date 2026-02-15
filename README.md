@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Fahim Shariar
-## Full-Stack Developer | Code Artist 🚀
+## Front-End Developer | Code Artist 🚀
 
-Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to craft exceptional web experiences. I specialize in React.js, Node.js, and MongoDB, weaving magic with clean code and seamless UX.
+Greetings! I'm Fahim Shariar, a passionate Front-End Developer on a mission to craft exceptional web experiences. I specialize in React.js, Next.js, and TypeScript, building scalable, SEO-optimized web applications with modern UI technologies like Tailwind CSS and ShadCN. I work extensively with REST APIs, state management tools like Redux and React Query, and focus heavily on performance optimization and clean architecture.
 
 ### 🚀 **Skills**:
 ### Frontend
@@ -17,11 +17,11 @@ Greetings! I'm Fahim Shariar, a passionate Full-Stack Developer on a mission to 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
 
-🛠️ **Currently Crafting**: Full-Stack Wonders ✨
+🛠️ **Currently Crafting**: Front-End Wonders ✨
 
 📚 **Currently Learning**: TypeScript 🚀
 
-🔧 **Ask Me About**: Full-Stack Sorcery 🪄
+🔧 **Ask Me About**: Front-End Sorcery 🪄
 
 📧 **Reach Me**: Let's Connect! E-mail: fahimshariar28@gmail.com
 
