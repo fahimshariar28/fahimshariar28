@@ -37,15 +37,17 @@ Greetings! I'm Fahim Shariar, a passionate Front-End Developer on a mission to c
 
 [![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-🌟-brightgreen?style=for-the-badge&logo=github)](https://archiveprogram.github.com/) [![GitHub Developer](https://img.shields.io/badge/GitHub%20Developer-%F0%9F%9A%80-9cf?style=for-the-badge&logo=github)](https://docs.github.com/en/developers) [![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-%F0%9F%92%BC-ff69b4?style=for-the-badge&logo=github)](https://github.com/pricing)
 
-🏆 **Trophies**: 
+## 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=fahimshariar28&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=fahimshariar28&theme=discord)
 
-📈 **GitHub Stats**:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fahimshariar28&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=fahimshariar28&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimshariar28&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fahimshariar28&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=fahimshariar28&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=fahimshariar28&theme=dark&hide_border=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fahimshariar28&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=fahimshariar28&langs_count=4&theme=tokyonight)
 
 💰 **You can help me by Donating**
 
